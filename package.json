@@ -2,7 +2,7 @@
   "name": "krisp-demo",
   "version": "1.0.0",
   "scripts": {
-    "start": "krisp start"
+    "start": "krisp"
   },
   "author": "Yatharth K",
   "license": "MIT",
