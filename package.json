@@ -1,0 +1,12 @@
+{
+  "name": "krisp-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "krisp start"
+  },
+  "author": "Yatharth K",
+  "license": "MIT",
+  "dependencies": {
+    "krisp": "^0.0.1"
+  }
+}

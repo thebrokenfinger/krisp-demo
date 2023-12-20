@@ -1,0 +1,10 @@
+{
+  "theme": "tom-preston",
+  "website": {
+    "url": "https://demo.krispjs.org",
+    "metadata": {
+      "title": "Krisp Demo"
+    }
+  },
+  "email": "contact@example.com"
+}
